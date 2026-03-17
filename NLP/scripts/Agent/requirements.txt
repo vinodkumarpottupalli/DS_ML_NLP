@@ -1,0 +1,17 @@
+anthropic
+langchain
+langgraph
+fastmcp
+python-dotenv
+ipykernel
+notebook
+llama-index
+openai
+faiss-cpu
+tiktoken
+numpy
+faiss-cpu
+scipy
+pandas
+tiktoken
+numpy
